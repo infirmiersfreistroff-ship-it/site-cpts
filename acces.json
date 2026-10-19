@@ -1,6 +1,17 @@
 {
   "_info": "Liste des accès à l'espace professionnel. Chaque entrée contient l'e-mail, le nom affiché, le rôle (admin ou membre) et l'empreinte SHA-256 de « email:motdepasse ». Utilisez l'outil « Gérer les accès » de l'espace pro pour générer ce fichier, puis remplacez-le sur l'hébergement.",
   "comptes": [
-    { "email": "tresorier@cpts-thionville-est.fr", "nom": "Julien Zimmermann", "role": "admin", "hash": "d741b4ab2a6a0205c89318e4c079abb672d9d107a1c6ac0173d8a869cfdeb2b6" }
+    {
+      "email": "tresorier@cpts-thionville-est.fr",
+      "nom": "Julien Zimmermann",
+      "role": "admin",
+      "hash": "d741b4ab2a6a0205c89318e4c079abb672d9d107a1c6ac0173d8a869cfdeb2b6"
+    },
+    {
+      "email": "contact@cpts-thionville-est.fr",
+      "nom": "Secrétariat CPTS",
+      "role": "lecteur",
+      "hash": "ad005ae6ee27a0bd1db5c48c29bb910470af2d89c15b56dd18f1765242b5b8de"
+    }
   ]
 }
