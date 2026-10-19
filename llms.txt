@@ -1,0 +1,21 @@
+# CPTS Thionville Est
+
+> Communauté professionnelle territoriale de santé (association loi 1901) du nord de la Moselle, France : 97 communes autour de Thionville, environ 165 000 habitants. Elle coordonne les professionnels de santé libéraux et hospitaliers pour faciliter l'accès à un médecin traitant, les soins non programmés, les parcours de soins (insuffisance cardiaque, diabète, cancers, personnes âgées, troubles du langage écrit chez l'enfant) et la prévention.
+
+Siège : Hôpital Bel Air, 1 rue du Friscaty, BAL 114, 57100 Thionville. Téléphone : 03 82 55 97 80. Courriel : contact@cpts-thionville-est.fr.
+Urgence vitale : 15. Médecin indisponible, soir ou week-end : 116 117. Médecin de garde : 0 820 33 20 20.
+
+## Pages
+- [Accueil](https://infirmiersfreistroff-ship-it.github.io/site-cpts/) : accès rapides, carte interactive des 97 communes, actualités, agenda
+- [La CPTS](https://infirmiersfreistroff-ship-it.github.io/site-cpts/#cpts) : missions, bureau, équipe salariée, conseil d'administration
+- [Parcours de soins](https://infirmiersfreistroff-ship-it.github.io/site-cpts/#parcours) : 13 parcours (médecin traitant, soins non programmés, insuffisance cardiaque, diabète, cancers, personnes âgées, enfant, ETP, santé mentale, vaccination, crises sanitaires, professionnels) et 3 tests santé (FINDRISC, signes EPOF, fragilité)
+- [Actualités](https://infirmiersfreistroff-ship-it.github.io/site-cpts/#actualites)
+- [Agenda](https://infirmiersfreistroff-ship-it.github.io/site-cpts/#agenda)
+- [Numéros utiles](https://infirmiersfreistroff-ship-it.github.io/site-cpts/#numeros) : établissements, maisons de santé, associations, mairies des 97 communes
+- [Questions fréquentes](https://infirmiersfreistroff-ship-it.github.io/site-cpts/#faq)
+- [Brochures](https://infirmiersfreistroff-ship-it.github.io/site-cpts/#documents) : documents PDF de prévention
+
+## Faits utiles
+- Remboursement d'une consultation de 25 € chez un généraliste secteur 1 : 16,50 € avec médecin traitant déclaré, 6,50 € sans.
+- Depuis le 14 juin 2023, il faut appeler le 15 avant de se rendre aux urgences des hôpitaux de Mercy et de Bel Air.
+- Adhésion : 10 € par an (1 € pour les étudiants), via HelloAsso.
